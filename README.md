@@ -12,10 +12,8 @@
 ## Integrantes
 
 * João Lucas Cerezo Silveira
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Gabriel Mesquita da Silva
+* Samuel Danelon
 
 ## Orientador
 
