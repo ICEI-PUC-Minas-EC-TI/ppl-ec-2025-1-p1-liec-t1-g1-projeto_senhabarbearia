@@ -1,17 +1,17 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`Lourdes`
 
-`CURSO`
+`Engenharia da computação`
 
-`SEMESTRE`
+`1 semestre`
 
-`DISCIPLINA`
+`Laboratório de introdução a computação/introdução a computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* João Lucas Cerezo Silveira
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
@@ -19,7 +19,8 @@
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
+* Cristiano Neves Rodrigues
 
 ## Resumo
 
