@@ -2,7 +2,10 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+Kit resistor 
+Display lcd
+Esp 32
+Protoboard
 
 # Desenvolvimento
 
